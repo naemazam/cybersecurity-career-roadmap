@@ -65,6 +65,8 @@ This repository aims to solve those problems by offering **clear, role-based roa
 │   ├── cloud-security/
 │   ├── ai-security/
 │   └── governance-grc/
+    └── cybersecurity-researcher/
+
 
 ```
 
