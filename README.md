@@ -7,6 +7,8 @@ It is designed to help learners understand **what to learn, in what order, and w
 
 The content is role-focused, progressive, and practical—covering foundations, technical skills, tools, certifications, and career guidance.
 
+[Free Cyber Security Books](https://security-books.notion.site/)
+
 ## 🧭 Career Paths Covered
 
 Each career path is independent and can be followed based on individual career goals.
